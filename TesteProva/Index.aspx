@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
     <title></title>
 </head>
-<body>
+<body> 
     <header>
         <nav class="navbar navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#">Teste</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -20,7 +20,7 @@
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
           <asp:HyperLink ID="Hyperlink" Text="Home"  runat="server"></asp:HyperLink>
-          </li>
+          </li> 
       <li class="nav-item">
             <asp:HyperLink ID="Hyperlink1" Text="Sobre"  runat="server"></asp:HyperLink>
         
